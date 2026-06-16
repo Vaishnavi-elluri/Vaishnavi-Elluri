@@ -12,8 +12,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellurivaishnavi55@gmail.com)
 
 </div>
----
+
 ## 🙋‍♀️ About Me
+
 ## Hi, I'm Vaishnavi Elluri 👋
 
 ### I'm a Data Scientist & GenAI Engineer 🤖
