@@ -17,17 +17,19 @@
 
 ## 🚀 About Me
 
-```python
 vaishnavi = {
-    "role"       : "Data Scientist | GenAI & NLP Engineer",
-    "location"   : "Hyderabad, India 📍",
-    "focus"      : ["LLMs", "RAG", "Agentic AI", "NLP", "ML"],
-    "building"   : "AI-powered solutions that turn data into decisions",
-    "open_to"    : ["Data Scientist", "AI Engineer", "NLP Engineer", "Data Analyst"],
-    "certified"  : ["Microsoft Azure AI", "NASSCOM Advanced Data Science"],
-    "status"     : "🟢 Open to Work"
+    "role"        : "Data Scientist | GenAI & NLP Engineer",
+    "location"    : "Hyderabad, India 📍",
+    "built"       : [
+                     "NLP Classifier → 85% accuracy, 0.95 F1 on Hugging Face",
+                     "AI Code Reviewer → Bug detection across 50+ Python scripts",
+                     "AI Travel Planner → 30+ scenarios tested with LangChain",
+                   ],
+    "stack"       : ["Python", "LangChain", "RAG", "XGBoost", "Power BI", "SQL"],
+    "certified"   : ["Microsoft Azure AI", "NASSCOM Advanced Data Science"],
+    "open_to"     : ["Data Scientist", "AI Engineer", "NLP Engineer", "Data Analyst"],
+    "status"      : "🟢 Open to Work — Hyderabad & Remote"
 }
-```
 
 ---
 
@@ -161,19 +163,6 @@ vaishnavi = {
 | 🏅 Advanced Generative AI Internship | Innomatics Research Labs |
 | 🏅 Data Science Certification | Innomatics Research Labs |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-elluri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-elluri&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
