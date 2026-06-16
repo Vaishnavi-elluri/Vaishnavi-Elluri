@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👩‍💻 Vaishnavi Elluri
-### Data Scientist | GenAI & NLP Engineer | Hyderabad, India
+## Data Scientist | GenAI & NLP Engineer | Hyderabad, India
 
 
 </div>
@@ -10,11 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavielluri-721293289)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellurivaishnavi55@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavi-elluri)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
 </div>
-
 ---
 ## 🙋‍♀️ About Me
 ## Hi, I'm Vaishnavi Elluri 👋
@@ -73,7 +70,6 @@
 </div>
 
 ---
-
 ## 📜 Certifications
 
 | Certificate | Issuer |
@@ -88,7 +84,7 @@
 
 ### 💬 Let's Build Something Intelligent Together
 
-*Open to Data Scientist · AI Engineer · NLP Engineer · Data Analyst roles*
+*Open to Data Scientist | AI Engineer | NLP Engineer | Data Analyst roles*
 
 📧 ellurivaishnavi55@gmail.com · 📍 Hyderabad, India
 
